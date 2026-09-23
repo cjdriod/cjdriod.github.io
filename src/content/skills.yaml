@@ -1,5 +1,5 @@
 - id: 001-programming-language
-  name: Programing Language
+  name: Programming Language
   pages: [ about, cv ]
   skills:
     - name: Java
@@ -37,6 +37,7 @@
       icon: logos:microsoft-azure
     - name: Serverless
       icon: logos:serverless
+    - name: Cloud Cost Optimisation
 
 - id: 004-frontend-development
   name: Frontend Development
@@ -109,23 +110,29 @@
     - name: OAuth 2.0
     - name: JWT
     - name: SSO
+    - name: SCIM
 
 - id: 009-architecture
   name: Architecture
-  pages: [ about, cv ]
+  pages: [ home, about, cv ]
   skills:
-    - name: SOLID Principles
-    - name: Object Oriented Programing
+    - name: Solution Design
+    - name: Integration Architecture
+    - name: Architecture Governance
     - name: Resilient Microservice
+    - name: SOLID Principles
+    - name: Object-Oriented Programming
     - name: Test Driven Development
 
 - id: 010-others
   name: Others
   pages: [ about, cv ]
   skills:
+    - name: Effort Estimation
+    - name: Technical Debt Management
+    - name: Requirement engineering
     - name: Incident Management
     - name: QA Governance
-    - name: Requirement engineering
 
 - id: hidden
   name: un-group-keyword

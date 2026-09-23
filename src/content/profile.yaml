@@ -1,37 +1,43 @@
 ﻿profile:
-  tagline: System design & sustainable solutions
+  tagline: Solution design & cloud architecture
   name: Jack Lim
   legalName: Lim Chun Jie
-  role: Technical Lead | Full-Stack Engineer
-  landingSeoRole: Full-Stack Engineer
-  landingSeoDescription: Full Stack Developer designing secure, scalable cloud-native platforms on AWS and Azure.
+  role: Technical Lead | Technical Architect
+  landingSeoRole: Technical Architect & Tech Lead
+  landingSeoDescription: >-
+    Technical Architect and Tech Lead designing secure, cost-efficient Azure and AWS solutions, from business
+    requirements to governed, production-ready delivery.
   description: >-
-    I design and build secure, scalable cloud-native platforms on AWS and Azure,
-    and lead engineering teams to ship high-traffic systems across e-commerce and
-    agriculture. My focus is DevSecOps, reliable services, and mentoring the
-    engineers around me — building software that keeps delivering long after launch.
+    I turn business requirements into secure, cost-efficient cloud solutions on Azure
+    and AWS. As a tech lead and technical architect, I own solution and integration
+    design for high-traffic platforms across e-commerce and agriculture, guide delivery
+    teams through architecture and compliance reviews, and design systems that keep
+    delivering long after launch.
   resumeSummary: >-
-    Full-Stack Engineer with 8+ years designing and shipping secure, scalable cloud-native platforms on AWS and Azure.
-    Proven at leading cross-functional engineering teams, maturing DevSecOps and QA governance, and delivering
-    enterprise-grade reliability for high-traffic e-commerce and agriculture systems serving millions of users.
-    AWS Solutions Architect – Associate and Azure (AZ-305) certified, actively driving toward a Solution Architect
-    career track — pairing hands-on full-stack delivery with architecture ownership, security-by-design, and
-    team mentorship.
+    Technical Lead and Technical Architect with nearly 8 years of experience delivering secure, scalable cloud
+    platforms on Azure and AWS. Owns solution design for multi-country agriculture loyalty platforms serving 50,000+
+    growers, translating business requirements into solution designs, shaping integration architecture, and steering
+    proposals through PRA, compliance, and architecture reviews. Cut annual Azure infrastructure costs by 68% using
+    Well-Architected principles. AWS Solutions Architect – Associate and Azure AZ-305 certified, bringing hands-on
+    full-stack depth to architecture decisions, security by design, and cross-team alignment.
   highlights:
-    - Led a team of 5 to deliver a multi-region loyalty platform, cutting production outages 8 → 1 in a year.
-    - Improved MTTR by 60% and sustained a 99.93% SLA via New Relic observability across 3 projects.
-    - Drove 86% cost reduction on cloud services (RM20K → RM2.8K/month) through architectural optimization.
-    - Won the MaxisWay Award for end-to-end e-commerce design, delivering high-traffic systems at scale.
+    - Cut annual Azure infrastructure costs by 68% through Well-Architected right-sizing and consolidation.
+    - Own solution and integration design (SSO, SCIM, OneTrust, Pine Labs) for platforms serving 50,000+ growers.
+    - Steer designs through PRA, compliance, and architecture reviews, with SDD and Authorization Concept kept current.
+    - Improved MTTR by 60%, sustained a 99.93% SLA, and cut production outages from 8 to 1 in a year.
+    - Achieved 86% cost reduction on Google Maps services (RM20K → RM2.8K/month) through architectural optimisation.
   professionalSummary:
     - >
-      Technical Lead and Senior Full-Stack Engineer with a strong track record of building secure, scalable, and
-      resilient digital platforms. Experienced in leading cross-functional teams, maturing engineering practices,
-      and delivering enterprise-grade reliability across high-traffic E-commerce and agriculture-sector systems.
-      Adept at strengthening DevSecOps pipelines, implementing standardized QA governance, and reducing
-      outages through proactive monitoring and automation.
+      Technical Lead and Technical Architect with nearly 8 years of experience building secure, scalable, and
+      resilient digital platforms across e-commerce and agriculture. Owns solution design for multi-country loyalty
+      platforms serving 50,000+ growers, from engaging business stakeholders and evaluating solution options to
+      estimating epics and guiding delivery teams on architecture, integrations, and non-functional requirements.
     - >
-      Known for mentoring teams, strengthening incident management and service reliability, and ensuring
-      long-term product sustainability through secure, cloud-native architecture on Microsoft Azure.
+      Experienced in architecture governance, including Protection Requirement Assessments (PRA), compliance checks,
+      and architecture reviews, and in aligning business, security, platform, data, and vendor teams on shared
+      technical approaches. Pairs cost-conscious Azure Well-Architected design, which cut annual infrastructure costs
+      by 68%, with hands-on DevSecOps and observability depth, backed by AWS Solutions Architect – Associate and AZ-305
+      certifications.
   languages:
     - English
     - Malay

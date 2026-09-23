@@ -55,27 +55,43 @@
 
 - id: 004-basf
   company: BASF
-  position: Technical Lead | Senior Full Stack Developer
+  position: Technical Lead | Technical Architect
   photo: '../assets/images/logos/basf.png'
   start: Sep-2024
   end: Present
   summary: >-
-    Lead and develop multi-region agriculture loyalty platforms, designing scalable backend systems for high-traffic
-    campaigns, ensuring security, compliance, and solution sustainability.
+    Lead solution design and technical architecture for multi-country agriculture loyalty platforms serving 50,000+
+    growers, translating business requirements into secure, compliant, and cost-efficient Azure solutions and guiding
+    delivery teams from design through architecture governance.
   achievements:
     - >
-      Led a team of 5 developers, driving technical direction, maintainable coding practices, application security, and
-      development standards in line with company policies and OWASP guidelines.
+      Reduced annual Azure infrastructure costs by 68% by applying Azure Well-Architected Framework cost-optimisation
+      principles: right-sizing compute and database tiers, consolidating environments and hosting plans, and
+      decommissioning idle resources.
     - >
-      Drove requirements analysis, solution design, and development planning as Tech Lead, ensuring solutions aligned
-      with security, compliance, and approved architecture requirements.
+      Translated business requirements and new roadmap epics into high-level solution designs and effort estimates,
+      evaluating options on business fit and technical feasibility and surfacing risks, dependencies, and integration
+      impacts early for business and delivery teams.
     - >
-      Applied Azure Well-Architected Framework principles to optimise cloud architecture, reducing cloud infrastructure
-      costs by €25,000 in 2025–2026.
+      Owned integration designs covering SSO, SCIM user provisioning, OneTrust consent management, Pine Labs rewards,
+      and third-party vendor APIs, keeping the Solution Design Document (SDD), Authorization Concept, and architecture
+      diagrams current before every go-live.
     - >
-      Led New Relic implementation across 3 projects, establishing application monitoring and observability practices
-      that improved MTTR by 60% while maintaining a 99.93% SLA.
+      Prepared architecture artefacts for Protection Requirement Assessments (PRA), compliance checks, and architecture
+      reviews, addressing governance feedback and tracking follow-up actions to closure.
     - >
-      Improved engineering and QA workflows by introducing standardised processes and quality gates, reducing production
-      outages from 8 to 1 within a year.
+      Led technical design reviews for a team of 5 developers, introducing design-review and non-functional requirement
+      (NFR) checklists for security, availability, scalability, and performance, aligned with enterprise standards and
+      OWASP guidelines.
+    - >
+      Coordinated architecture decisions and cross-team dependencies across business, security, cloud platform,
+      and vendor teams and the solution architect, aligning them on common technical approaches.
+    - >
+      Planned and prioritised the maintenance and technical-debt backlog by business impact, risk, and compliance needs,
+      driving Java/Spring Boot, frontend framework, and runtime stack upgrades off end-of-life versions and closing
+      critical vulnerability and compliance findings.
+    - >
+      Established observability and quality governance by rolling out New Relic across 3 projects and standardised QA
+      quality gates, improving MTTR by 60%, sustaining a 99.93% SLA, and cutting production outages from 8 to 1 within a
+      year.
 #    - ; also automated daily reporting, reducing manual effort from 1.5 hours to 4 minutes.
