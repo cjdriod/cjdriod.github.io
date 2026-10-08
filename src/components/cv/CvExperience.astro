@@ -14,7 +14,7 @@ const { items } = Astro.props;
     {items.map((item) => {
       const { company, position, start, end, achievements } = item.data;
       return (
-        <li class="break-inside-avoid">
+        <li class="break-inside-auto mb-6">
           <div class="flex flex-wrap items-baseline justify-between gap-2">
             <h3 class="m-0 text-lg font-semibold text-text">{company}</h3>
             <span class="font-mono text-sm whitespace-nowrap text-faint">{start} — {end}</span>

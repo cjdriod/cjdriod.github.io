@@ -68,10 +68,10 @@
       Reduced annual Azure infrastructure costs by 68% by applying Azure Well-Architected Framework cost-optimisation
       principles: right-sizing compute and database tiers, consolidating environments and hosting plans, and
       decommissioning idle resources.
-    - >
-      Translated business requirements and new roadmap epics into high-level solution designs and effort estimates,
-      evaluating options on business fit and technical feasibility and surfacing risks, dependencies, and integration
-      impacts early for business and delivery teams.
+#    - >
+#      Translated business requirements and new roadmap epics into high-level solution designs and effort estimates,
+#      evaluating options on business fit and technical feasibility and surfacing risks, dependencies, and integration
+#      impacts early for business and delivery teams.
     - >
       Owned integration designs covering SSO, SCIM user provisioning, OneTrust consent management, Pine Labs rewards,
       and third-party vendor APIs, keeping the Solution Design Document (SDD), Authorization Concept, and architecture
@@ -81,15 +81,14 @@
       reviews, addressing governance feedback and tracking follow-up actions to closure.
     - >
       Led technical design reviews for a team of 5 developers, introducing design-review and non-functional requirement
-      (NFR) checklists for security, availability, scalability, and performance, aligned with enterprise standards and
+      checklists for security, availability, scalability, and performance, aligned with enterprise standards and
       OWASP guidelines.
     - >
       Coordinated architecture decisions and cross-team dependencies across business, security, cloud platform,
       and vendor teams and the solution architect, aligning them on common technical approaches.
     - >
       Planned and prioritised the maintenance and technical-debt backlog by business impact, risk, and compliance needs,
-      driving Java/Spring Boot, frontend framework, and runtime stack upgrades off end-of-life versions and closing
-      critical vulnerability and compliance findings.
+      driving technical stack upgrades off end-of-life versions and closing critical vulnerability and compliance findings.
     - >
       Established observability and quality governance by rolling out New Relic across 3 projects and standardised QA
       quality gates, improving MTTR by 60%, sustaining a 99.93% SLA, and cutting production outages from 8 to 1 within a
